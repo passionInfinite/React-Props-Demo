@@ -11,11 +11,20 @@ You should have basic understanding, usage and installation of: <br/>
 
 [Webpack](https://webpack.js.org/concepts/)
 
-### Running
+### Deployment
 After getting the copy of the repository,
 
 1) Get into the project folder in Terminal.
-2) ``` $ npm start ```
-3) Open URL [http://localhost:3000](http://localhost:3000)
+2) ``` $ npm install ```
+3) ``` $ npm start ```
+4) Open URL [http://localhost:3000](http://localhost:3000)
 
+### Author
+* **Hardik Patel** - https://passioninfinite.github.io
 
+### Acknowledgments
+
+* The above example is also given in the docs of [ReactJS](https://facebook.github.io/react/docs/components-and-props.html)
+
+### Reference
+* I am also a learner so for more details visit the official site [ReactJS](https://facebook.github.io/react/docs/)
