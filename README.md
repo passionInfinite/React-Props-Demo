@@ -19,6 +19,9 @@ After getting the copy of the repository,
 3) ``` $ npm start ```
 4) Open URL [http://localhost:3000](http://localhost:3000)
 
+### Contribution
+Want to update the demo example then contributions are most welcomed :)
+
 ### Author
 * **Hardik Patel** - https://passioninfinite.github.io
 
